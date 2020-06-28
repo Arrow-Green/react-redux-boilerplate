@@ -1,7 +1,7 @@
 
 <br />
 
-<div align="center">A minimal, beginner friendly React-Redux with saga middleware boilerplate with Ant design and all the industry best practices</div>
+<div align="center">A minimal, beginner friendly React-Redux, saga middleware boilerplate with Ant design and all the industry best practices</div>
 
 <br />
 
