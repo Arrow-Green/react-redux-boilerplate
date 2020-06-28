@@ -1,3 +1,20 @@
+
+<br />
+
+<div align="center">A minimal, beginner friendly React-Redux with saga middleware boilerplate with Ant design and all the industry best practices</div>
+
+<br />
+
+## Features
+
+This boilerplate features all the latest tools and practices in the industry.
+
+- _React.js_ - **React 16.13.1**✨, React Router 5
+- _Redux.js_ - Redux saga
+- _Test_ - Jest with Enzyme
+- _Lint_ - ESlint
+- _Styles_ - Ant Design
+
 ## Available Scripts
 
 In the project directory, you can run:
